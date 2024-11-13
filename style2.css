@@ -1,0 +1,41 @@
+h1 {
+  font-size: x-large;
+  text-align: center;
+}
+p {
+  font-size: 19px;
+}
+span {
+  font-size: 2em;
+}
+footer {
+  clear: both;
+  text-align: center;
+}
+.Box {
+  border: 3px dotted rgb(113, 123, 206);
+  display: inline-block;
+  padding: 20px 50px 20px 50px;
+  margin: 5px 70px;
+  text-align: center;
+}
+section {
+  text-align: center;
+}
+.pics {
+  display: inline-block;
+  margin: 5px 70px;
+}
+#images {
+  text-align: center;
+}
+body {
+  background-image: linear-gradient(
+    rgb(209, 185, 209),
+    rgb(216, 198, 198),
+    rgb(235, 235, 182)
+  );
+}
+img {
+  background-blend-mode: exclusion;
+}

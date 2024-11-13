@@ -1,0 +1,52 @@
+h1{
+    color:#ab2727; font-size: larger;
+    text-align: center;
+}
+#intro{
+  color:#610303
+}
+button{
+  cursor: pointer;
+}
+body{
+  background-image: url('Bgimage.PNG');
+  background-size: cover;
+}
+a:link {
+    color: rgb(78, 66, 182);
+  }
+  
+  /* visited link */
+  a:visited {
+    color: blueviolet;
+  }
+  
+  /* mouse over link */
+  a:hover {
+    color: hotpink;
+  }
+  
+  /* selected link */
+  a:active {
+    color: green;
+  }
+
+  h5 {
+    display: none;
+    background-color: orange;
+    padding: 5px;
+    text-align: center;
+    }
+
+    div:hover h5 {
+    display: block;
+    }
+
+    
+
+  
+
+  
+
+  
+  
